@@ -1,0 +1,26 @@
+* {
+  box-sizing: content-box;
+}
+
+.div1 {
+  height: 100px;
+  background-color: pink;
+  border: 2px solid black;
+}
+
+.div2 {
+  background-color: green;
+  border: 2px solid black;
+  padding: 50px 50px;
+}
+.div3 {
+  background-color: yellow;
+  border: 2px solid black;
+  padding: 50px 50px;
+}
+.div4 {
+  background-color: blue;
+  border: 2px solid black;
+  margin: 50px 50px;
+  padding: 50px 50px;
+}

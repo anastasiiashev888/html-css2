@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  display: flex;
+}
+div {
+  width: 150px;
+  height: 100px;
+  margin: 16px;
+  background-color: beige;
+}
+.cropped {
+  overflow: hidden;
+}
+.both-scrolls {
+  overflow: scroll;
+  cursor: all-scroll;
+}
+.vertical-scroll {
+  overflow-y: scroll;
+  cursor: all-scroll;
+}
